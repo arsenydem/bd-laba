@@ -1,0 +1,5 @@
+1	cnn	v1
+2	mlp	v2
+3	svm	v1
+4	rf	v3
+5	lstm	v1

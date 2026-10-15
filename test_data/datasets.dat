@@ -1,0 +1,5 @@
+1	mnist	classify	60000
+2	cifar10	classify	50000
+3	imdb	text	25000
+4	boston	regress	506
+5	iris	classify	150

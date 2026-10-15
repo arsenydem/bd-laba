@@ -1,0 +1,3 @@
+datasets|id:INT:1|name:STRING:0|task:STRING:0|size:INT:0
+models|id:INT:1|name:STRING:0|version:STRING:0
+experiments|id:INT:1|dataset_id:INT:0|model_id:INT:0|accuracy:FLOAT:0|status:STRING:0
